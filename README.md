@@ -1,2 +1,3 @@
 # Graficadora-3D-Equilibrio-Liquido-Vapor-Para-Sistemas-Tricomponente
-Ejecutable de Windows que calcula y visualiza el equilibrio líquido-vapor de mezclas ternarias mediante el modelo doble-φ y la ecuación de estado de Peng-Robinson. Genera superficies 3D de temperatura de burbuja y rocío sobre el diagrama ternario de composiciones.
+Este proyecto consiste en un archivo .exe (ejecutable de windows) que te permite visualizar el equilibrio liquido-vapor de una mezcla de tres compuestos químicos como una superficie 3D. En la figura 1 se ve un ejemplo de una grafica generada por este programa.
+![Descripción de la imagen](/imagenes/fig1.png)
